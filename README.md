@@ -1,1 +1,9 @@
-# CS-370
+In this project, I was given starter code consisting of a framework for a maze-solving scenario and an outline of the intelligent agent's specifications. The provided code included basic functionalities such as maze generation, environment setup, and interaction mechanics. My task was to implement the Q-learning algorithm within this framework to enable the intelligent agent to navigate the maze efficiently and reach the treasure.
+
+I created additional code to implement the Q-learning algorithm, specifically focusing on developing the logic for updating Q-values, selecting actions, and optimizing the agent's pathfinding strategy. This involved writing functions to initialize Q-tables, update Q-values based on rewards and penalties, and choose actions using a balance of exploration and exploitation.
+
+Connecting my learning from throughout this course to the larger field of computer science, I recognize that computer scientists are problem solvers who utilize computational methods and algorithms to address complex challenges across various domains. They play a crucial role in advancing technology, driving innovation, and shaping the future of society.
+
+As a computer scientist, I approach problems systematically, breaking them down into manageable components, analyzing requirements, and designing efficient solutions using computational tools and techniques. I apply principles of abstraction, algorithm design, and computational thinking to develop robust and scalable solutions.
+
+Ethically, I recognize my responsibility to consider the impact of my work on end users and organizations. I must prioritize privacy, security, and fairness in the design and implementation of systems and algorithms. It's essential to consider the potential consequences of technology on individuals and society, striving to minimize harm and promote inclusivity and accessibility in the products and services I develop.
